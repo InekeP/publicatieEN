@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Ineke Paulissen ENG",
+    "name": "Ineke Paulissen NL2",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -130,7 +130,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-9\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-9\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\" aria-expanded=\"false\">Info</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery4-8\">Works</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-6\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://inekep.github.io/publicatieEN/\">Nederlands</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-9\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-9\" aria-expanded=\"false\">Startpagina</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\" aria-expanded=\"false\">Info</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery4-8\">Werken</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-6\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://inekep.github.io/publicatieEN/\">English</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "header1",
@@ -229,7 +229,7 @@
             "paddingBottom": "1",
             "images": [
               {
-                "tags": "paintings, 2017",
+                "tags": "schilderijen, 2017",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -239,7 +239,7 @@
                 "active": false
               },
               {
-                "tags": "paintings, 2017",
+                "tags": "schilderijen, 2017",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -249,7 +249,7 @@
                 "active": false
               },
               {
-                "tags": "paintings, 2017",
+                "tags": "schilderijen, 2017",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -259,7 +259,7 @@
                 "active": false
               },
               {
-                "tags": "paintings, 2017",
+                "tags": "schilderijen, 2017",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -269,7 +269,7 @@
                 "active": false
               },
               {
-                "tags": "paintings, 2017",
+                "tags": "schilderijen, 2017",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -279,7 +279,7 @@
                 "active": false
               },
               {
-                "tags": "paintings, 2016",
+                "tags": "schilderijen, 2016",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -289,7 +289,7 @@
                 "active": false
               },
               {
-                "tags": "paintings, 2016",
+                "tags": "schilderijen, 2016",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -299,7 +299,7 @@
                 "active": false
               },
               {
-                "tags": "paintings, 2016",
+                "tags": "schilderijen, 2016",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -309,7 +309,7 @@
                 "active": false
               },
               {
-                "tags": "paintings, 2016",
+                "tags": "schilderijen, 2016",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -319,7 +319,7 @@
                 "active": false
               },
               {
-                "tags": "paintings, 2016",
+                "tags": "schilderijen, 2016",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -329,7 +329,7 @@
                 "active": false
               },
               {
-                "tags": "paintings, 2016",
+                "tags": "schilderijen, 2016",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -339,7 +339,7 @@
                 "active": false
               },
               {
-                "tags": "paintings, 2016",
+                "tags": "schilderijen, 2016",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -349,7 +349,7 @@
                 "active": false
               },
               {
-                "tags": "paintings, 2016",
+                "tags": "schilderijen, 2016",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -359,7 +359,7 @@
                 "active": false
               },
               {
-                "tags": "paintings, 2016",
+                "tags": "schilderijen, 2016",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -369,7 +369,7 @@
                 "active": false
               },
               {
-                "tags": "paintings, 2016",
+                "tags": "schilderijen, 2016",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -379,7 +379,7 @@
                 "active": false
               },
               {
-                "tags": "paintings, 2015",
+                "tags": "schilderijen, 2015",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -389,7 +389,7 @@
                 "active": false
               },
               {
-                "tags": "paintings, 2015",
+                "tags": "schilderijen, 2015",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -399,17 +399,17 @@
                 "active": false
               },
               {
-                "tags": "paintings, 2015",
+                "tags": "schilderijen, 2015",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-11-800x797.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-11.jpg",
-                "caption": "40x40cm&nbsp;",
+                "caption": "40x40cm",
                 "active": false
               },
               {
-                "tags": "paintings, 2015",
+                "tags": "schilderijen, 2015",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -419,7 +419,7 @@
                 "active": false
               },
               {
-                "tags": "paintings, 2015",
+                "tags": "schilderijen, 2015",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -429,7 +429,7 @@
                 "active": false
               },
               {
-                "tags": "paintings, 2015",
+                "tags": "schilderijen, 2015",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -439,7 +439,7 @@
                 "active": false
               },
               {
-                "tags": "paintings, 2015",
+                "tags": "schilderijen, 2015",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -449,7 +449,7 @@
                 "active": false
               },
               {
-                "tags": "paintings, 2014",
+                "tags": "schilderijen, 2014",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -459,17 +459,17 @@
                 "active": false
               },
               {
-                "tags": "paintings, 2014",
+                "tags": "schilderijen, 2014",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-17-800x1117.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-17.jpg",
-                "caption": "7àx90cm",
+                "caption": "70x90cm&nbsp;",
                 "active": false
               },
               {
-                "tags": "paintings, 2014",
+                "tags": "schilderijen, 2014",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -495,21 +495,21 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-3830-copy-copy-800x375.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-3830-copy-copy.jpg",
-                "caption": "12x 15x21cm&nbsp;",
+                "caption": "12x 15x21cm",
                 "active": false
               },
               {
-                "tags": "pictures, 2016",
+                "tags": "foto's, 2016",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img.jpg",
                 "caption": "",
-                "active": false
+                "active": true
               },
               {
-                "tags": "collages, 2016, drawings",
+                "tags": "collages, 2016, tekeningen",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -519,7 +519,7 @@
                 "active": false
               },
               {
-                "tags": "collages, 2016",
+                "tags": "collages, 2016, tekeningen",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -539,14 +539,14 @@
                 "active": false
               },
               {
-                "tags": "collages, drawings, 2016",
+                "tags": "collages, tekeningen, 2016",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-6096-copy-copy-800x1115.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-6096-copy-copy.jpg",
                 "caption": "",
-                "active": true
+                "active": false
               }
             ],
             "spacing": "3",
@@ -559,7 +559,7 @@
           },
           "_anchor": "gallery4-8",
           "articleLayout": false,
-          "allItem": "all"
+          "allItem": "alle"
         },
         {
           "_tags": [
@@ -584,7 +584,7 @@
             "vkontakte": true,
             "odnoklassniki": true
           },
-          "text": "Share this page!&nbsp;"
+          "text": "Deel deze pagina!"
         },
         {
           "_tags": [
